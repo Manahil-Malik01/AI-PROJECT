@@ -1,8 +1,4 @@
-Theek hai — main aapka **complete professional GitHub README** bana deta hoon jo clean bhi hai aur portfolio ke liye strong bhi lagay ga 👇
 
----
-
-````md id="readme1"
 # 🔐 SentinelAI – AI Security Analyzer
 
 SentinelAI is an AI-powered security analysis tool that scans system logs to detect anomalies, threats, and suspicious activities using machine learning and network scanning tools like Nmap.
@@ -54,7 +50,7 @@ pip install streamlit pandas plotly python-nmap scikit-learn
 ```bash
 streamlit run main.py
 ```
-
+### Log file(event viewer>windows logs> security> save all event as(right sidebar) download with extension .csv) and upload)
 ---
 
 ## 📊 Project Structure
